@@ -1,0 +1,3 @@
+[submodule "frameworks/FreeAct"]
+	path = frameworks/FreeAct
+	url = https://github.com/QuantumLeaps/FreeAct.git

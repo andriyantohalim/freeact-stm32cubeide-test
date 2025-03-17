@@ -1,0 +1,5 @@
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/freeact-stm32cubeide-test/frameworks/FreeAct/3rd_party/FreeRTOS-Kernel/list.c:50:6:vListInitialise	1
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/freeact-stm32cubeide-test/frameworks/FreeAct/3rd_party/FreeRTOS-Kernel/list.c:86:6:vListInitialiseItem	1
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/freeact-stm32cubeide-test/frameworks/FreeAct/3rd_party/FreeRTOS-Kernel/list.c:98:6:vListInsertEnd	1
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/freeact-stm32cubeide-test/frameworks/FreeAct/3rd_party/FreeRTOS-Kernel/list.c:128:6:vListInsert	3
+C:/Users/andri/STM32CubeIDE/workspace_1.17.0/freeact-stm32cubeide-test/frameworks/FreeAct/3rd_party/FreeRTOS-Kernel/list.c:199:13:uxListRemove	2

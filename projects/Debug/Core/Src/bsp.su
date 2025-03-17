@@ -1,0 +1,12 @@
+../Core/Src/bsp.c:40:6:vApplicationTickHook	24	static,ignoring_inline_asm
+../Core/Src/bsp.c:80:6:vApplicationIdleHook	4	static
+../Core/Src/bsp.c:90:6:vApplicationStackOverflowHook	16	static
+../Core/Src/bsp.c:100:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/bsp.c:130:6:vApplicationGetTimerTaskMemory	24	static
+../Core/Src/bsp.c:156:6:BSP_init	24	static,ignoring_inline_asm
+../Core/Src/bsp.c:202:6:BSP_led0_off	4	static
+../Core/Src/bsp.c:206:6:BSP_led0_on	4	static
+../Core/Src/bsp.c:210:6:BSP_led1_off	4	static
+../Core/Src/bsp.c:214:6:BSP_led1_on	4	static
+../Core/Src/bsp.c:218:6:BSP_start	4	static
+../Core/Src/bsp.c:228:6:assert_failed	16	static

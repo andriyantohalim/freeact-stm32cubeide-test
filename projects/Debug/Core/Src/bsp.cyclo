@@ -1,0 +1,12 @@
+../Core/Src/bsp.c:40:6:vApplicationTickHook	4
+../Core/Src/bsp.c:80:6:vApplicationIdleHook	1
+../Core/Src/bsp.c:90:6:vApplicationStackOverflowHook	1
+../Core/Src/bsp.c:100:6:vApplicationGetIdleTaskMemory	1
+../Core/Src/bsp.c:130:6:vApplicationGetTimerTaskMemory	1
+../Core/Src/bsp.c:156:6:BSP_init	5
+../Core/Src/bsp.c:202:6:BSP_led0_off	1
+../Core/Src/bsp.c:206:6:BSP_led0_on	1
+../Core/Src/bsp.c:210:6:BSP_led1_off	1
+../Core/Src/bsp.c:214:6:BSP_led1_on	1
+../Core/Src/bsp.c:218:6:BSP_start	1
+../Core/Src/bsp.c:228:6:assert_failed	1
